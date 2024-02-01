@@ -5,7 +5,9 @@ class Login extends Component {
         return (
 
 
+         
             <div className="flex bg-blue-400 mx-auto max-w-xl rounded-xl py-3 px-8 flex-col">
+                
 
                 <div className="flex flex-row space-x-3">
 
@@ -34,9 +36,9 @@ class Login extends Component {
                         </form>
                     </div>
 
-                    <div class="self-center flex flex-row space-x-10">
+                    <div className="self-center flex flex-row space-x-10">
 
-                        <button onclick="me()" className="bg-white rounded-xl hover:bg-green-300 h-12 w-24">Submit</button>
+                        <button className="bg-white rounded-xl hover:bg-green-300 h-12 w-24">Submit</button>
                         <button type="reset" className="bg-white rounded-xl hover:bg-green-300 h-12 w-24">Limpar</button>
 
 
