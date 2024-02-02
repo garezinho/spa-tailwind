@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/garezinho/spa-tailwind/static/js/main.185656f8.js",
+    "static/media/logoHeader.png": "/garezinho/spa-tailwind/static/media/logoHeader.8d0909f4380df27bfdae.png",
+    "static/media/gut.jpg": "/garezinho/spa-tailwind/static/media/gut.5f27d235f44154e4889f.jpg",
+    "index.html": "/garezinho/spa-tailwind/index.html",
+    "main.185656f8.js.map": "/garezinho/spa-tailwind/static/js/main.185656f8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.185656f8.js"
+  ]
+}
