@@ -1,3 +1,12 @@
 html {
     background-color: rgb(194, 188, 188);
 }
+#sendButton {
+    transition: all 0.5s ease;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+#sendButton:hover {
+    background: rgb(141, 207, 141);
+}
