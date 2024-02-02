@@ -1,5 +1,7 @@
 html {
     background-color: rgb(194, 188, 188);
+    background-image: url(../src/img/bg.jpg);
+    background-repeat: no-repeat;
 }
 #sendButton {
     transition: all 0.5s ease;
@@ -9,4 +11,9 @@ html {
 
 #sendButton:hover {
     background: rgb(141, 207, 141);
+}
+
+#sendButton:disabled{
+    background-color: rgb(165, 164, 164);
+    opacity: 0.5;
 }
