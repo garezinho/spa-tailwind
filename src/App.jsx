@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import logoImg from './img/logoHeader.png';
 import { Route, NavLink, Routes, HashRouter } from "react-router-dom";
-import Login from "./Login";
-import Signup from "./Signup";
+import Login from "./pages/Login";
+import Signup from "./pages/Signup";
+import style from "./style.css";
 
 class App extends Component {
     render() {

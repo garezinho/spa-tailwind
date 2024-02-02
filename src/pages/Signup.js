@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import gut from './img/gut.jpg'
+import gut from '../img/gut.jpg'
 
 class Signup extends Component {
   render() {
